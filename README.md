@@ -2,9 +2,9 @@
 
 > ![gif](http://i.imgur.com/2Hupr59.gif)
 
-### burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
+### Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
-### Before You Begin
+### Summary
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
